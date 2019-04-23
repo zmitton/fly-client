@@ -1,0 +1,27 @@
+{
+  "name": "fly-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmitton/fly-client.git"
+  },
+  "keywords": [
+    "ethereum",
+    "flyclient",
+    "merklemountainrange",
+    "ethereumclassic",
+    "bitcoin",
+    "merkletree"
+  ],
+  "author": "Zac Mitton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zmitton/fly-client/issues"
+  },
+  "homepage": "https://github.com/zmitton/fly-client#readme"
+}
